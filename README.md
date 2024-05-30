@@ -45,3 +45,7 @@
   <a href="https://br.linkedin.com/in/pierre-moraes-483b21263?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fbr.linkedin.com%2Fpub%2Fdir%2FPierre%2FMoraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<br>
+<!--
+![Snake animation](https://github.com/PierreMoraes/blog/output/github-contribution-grid-snake.svg)-->
