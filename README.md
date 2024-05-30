@@ -1,5 +1,9 @@
 ## Olá eu sou Pierre Moraes 👋
 
+💾 Apesar da conta antiga ainda estou aprendendo sobre o Github mais prometo que irei estar postando tudo sobre oque eu sei e aprendo.
+<br>
+👨‍🎓 Estudante de Análise e desenvolvimento de sitemas.
+<br>
 
 
 ##
